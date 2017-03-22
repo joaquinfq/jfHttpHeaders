@@ -1,0 +1,24 @@
+{
+    "version"      : "0.1.0",
+    "name"         : "jf-http-headers",
+    "author"       : "Joaquín Fernández",
+    "description"  : "Class for manipulating HTTP headers.",
+    "keywords"     : [
+        "ajax",
+        "http",
+        "https",
+        "header",
+        "headers",
+        "request",
+        "response"
+    ],
+    "license"      : "MIT",
+    "homepage"     : "http://www.joaquinfernandez.net",
+    "repository"   : {
+        "type" : "git",
+        "url"  : "https://github.com/joaquinfq/jfHttpHeaders"
+    },
+    "scripts"      : {
+        "test" : "node test"
+    }
+}
